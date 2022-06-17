@@ -19,3 +19,8 @@
 	 top: -5%;
 	 left: -0.5%;
 }
+
+#stanza{
+    border: 1px solid green ;
+    color: blue
+}
