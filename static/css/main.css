@@ -1,0 +1,21 @@
+#footerDiv {
+    position: absolute;
+    bottom: 0;
+}
+#title_block{
+    position: absolute;
+    top:50
+}
+.neon-text {
+	 position: relative;
+	 font-family: 'Pacifico', cursive;
+	 text-transform: uppercase;
+}
+ .neon-text:after {
+	 content: 'underlying wire';
+	 z-index: -1;
+	 position: absolute;
+	 color: transparent;
+	 top: -5%;
+	 left: -0.5%;
+}
